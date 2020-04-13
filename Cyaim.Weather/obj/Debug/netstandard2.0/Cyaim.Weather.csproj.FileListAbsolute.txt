@@ -1,0 +1,7 @@
+E:\WorkSpaces\昌通码AI测温系统\branches\API\HIMR.TempMeasurement\Cyaim.Weather\bin\Debug\netstandard2.0\Cyaim.Weather.deps.json
+E:\WorkSpaces\昌通码AI测温系统\branches\API\HIMR.TempMeasurement\Cyaim.Weather\bin\Debug\netstandard2.0\Cyaim.Weather.dll
+E:\WorkSpaces\昌通码AI测温系统\branches\API\HIMR.TempMeasurement\Cyaim.Weather\obj\Debug\netstandard2.0\Cyaim.Weather.AssemblyInfoInputs.cache
+E:\WorkSpaces\昌通码AI测温系统\branches\API\HIMR.TempMeasurement\Cyaim.Weather\obj\Debug\netstandard2.0\Cyaim.Weather.AssemblyInfo.cs
+E:\WorkSpaces\昌通码AI测温系统\branches\API\HIMR.TempMeasurement\Cyaim.Weather\bin\Debug\netstandard2.0\Cyaim.Weather.pdb
+E:\WorkSpaces\昌通码AI测温系统\branches\API\HIMR.TempMeasurement\Cyaim.Weather\obj\Debug\netstandard2.0\Cyaim.Weather.dll
+E:\WorkSpaces\昌通码AI测温系统\branches\API\HIMR.TempMeasurement\Cyaim.Weather\obj\Debug\netstandard2.0\Cyaim.Weather.pdb
